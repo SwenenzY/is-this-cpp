@@ -1,12 +1,11 @@
 # Before to start
-First time i saw this i very shocked cuz i never see this before in cpp. This repo for see difference and resize your mind.
+When I see this, I was very shocked because I've never see this before and I never thought of it. You can look at this repo for more information about operator alternatives in CPP to enlarge your mind (:
 
-## Code examples;
+## Code examples
+So you are still using `&&` :thinking: You are just crazy, look at this alternative.
 
-Still are u using && ? You're crazy just look at this.
-
-### && to 'and';
-And yes i am  using <%%> too { } like a ejs [*Click and see*](https://ejs.co/)
+### && to 'and'
+And yeah, I am using `<% %>` for `{ }` like [EJS](https://ejs.co/)
 ```cpp
 int main( )
 <%
@@ -58,10 +57,11 @@ You can use includes like this syntax.
 |  #       |  %:           |
 |  ##      |  %:%:         |
 
-Cppreference has more detailed documentation, I'm writing this repo because I haven't seen it on github before
+CPPReference has more detailed documentation, I'm writing this repo because I haven't seen it on github before.
 
-*Give me suggestion for improve.*
+*You can give me suggestions with PR or ISSUES for improving this repo.*
 
-Link : [operator_alternative](https://en.cppreference.com/w/cpp/language/operator_alternative)
+[Check out CPPReference!](https://en.cppreference.com/w/cpp/language/operator_alternative)
 
-*Tested on c+14 to c+21.*
+*This documentation is all tested on C+14 to C+21.*
+<p align="right">Peace out 🖖</p>
