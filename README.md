@@ -26,9 +26,8 @@ int main( )
 <%
    auto username = "swenenzy";
    auto year = 2021;
-   // Look at this i'm using 'and' instead of && very strange right?
-   if ( username == "swenenzy" and year == 2021 ) <%
-	   printf( "both sides are equal" );
+   if ( username == "swenenzy" or year == 2023 ) <%
+	   printf( "one out of both correct\n" );
    %>
 %>
 ```
