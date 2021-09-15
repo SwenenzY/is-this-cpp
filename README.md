@@ -36,7 +36,7 @@ You can use includes like this syntax.
 ```cpp
 %:include <iostream>
 ```
-# Refence table
+# Reference table
 | Primary  |  Alternative  |
 |:--------:|:-------------:|
 |  &&      |  and          |
